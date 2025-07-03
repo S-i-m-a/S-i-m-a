@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Sima Pandit! 👋</h1>
+<h3 align="center">3rd-Year B.Tech Student | Web Developer | Tech Explorer | UI/UX Enthusiast</h3>
 
-<!--
-**S-i-m-a/S-i-m-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer+%7C+Open+Source+Contributor;UI%2FUX+Designer+%7C+Cloud+Learner;Exploring+Blockchain+%26+Streaming+Data;Let's+Build+Something+Awesome+Together!&center=true&width=1000&height=45&font=Fira%20Code&pause=1000&color=F70000" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a passionate and curious learner currently pursuing my **B.Tech (3rd Year)** at **Amrita Vishwa Vidyapeetham**.  
+My journey blends **creative UI/UX**, **full-stack development**, and **systems engineering** — all with a love for building projects that solve real-world problems.
+
+- 🔭 Working on exciting projects like **Kiddo**, **SRMS**, and **Matrix Calculator**
+- 🌱 Currently diving deeper into **Cloud Computing**, **Blockchain**, and **Streaming Systems**
+- 🛠️ Contributor to open-source & tech communities
+- 🎨 Love for **drawing**, **UI design**, and crafting beautiful web interfaces
+- 📬 Contact me: [sima92166@gmail.com](mailto:sima92166@gmail.com)
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S-i-m-a&show_icons=true&theme=gradient" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-i-m-a&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-i-m-a&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🗂 Highlighted Projects
+
+🔹 **Kiddo** – A Django-based learning platform for kids  
+🔹 **Student Result Management System** – Simple and secure result manager  
+🔹 **Matrix Calculator (Haskell & GUI)** – Advanced matrix operations  
+🔹 **Research Papers**  
+  • *Cryptocurrency Danger*  
+  • *Blockchain & Cloud Data Storage*
+
+---
+
+## 📌 Fun Facts
+
+- 🎨 I sketch during breaks — it's my stress buster  
+- 🧠 I enjoy learning by doing, experimenting, and failing fast  
+- ✍️ I also write and publish academic papers
+
+---
+
+## 📬 Let's Connect
+
+<a href="mailto:sima92166@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/YOUR-INSTA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+---
+
