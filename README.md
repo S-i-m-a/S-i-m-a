@@ -7,7 +7,6 @@
 
 ---
 
-<div align="center">
 
 ## 🚀 About Me
 
@@ -17,7 +16,6 @@ My journey blends <strong>creative UI/UX</strong>, <strong>full-stack developmen
 and <strong>systems engineering</strong> — all with a love for building projects  
 that solve real-world problems.
 
-</div>
 
 ---
 
