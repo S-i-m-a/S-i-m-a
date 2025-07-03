@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Sima Pandit! 👋</h1>
 <h3 align="center">3rd-Year B.Tech Student | Web Developer | Tech Explorer | UI/UX Enthusiast</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=1000&height=45&lines=Web+Developer+%7C+Open+Source+Contributor;UI%2FUX+Designer+%7C+Cloud+Learner;Exploring+Blockchain+%26+Streaming+Data;Let%E2%80%99s+Build+Something+Awesome+Together!" alt="Typing SVG" />
-</p>
+</div>
 
 ---
 
@@ -47,13 +47,13 @@ My journey blends **creative UI/UX**, **full-stack development**, and **systems 
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=S-i-m-a&show_icons=true&theme=gradient" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-i-m-a&theme=tokyonight" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-i-m-a&layout=compact&theme=radical" />
-</p>
+</div>
 
 ---
 
@@ -73,9 +73,9 @@ My journey blends **creative UI/UX**, **full-stack development**, and **systems 
 
 ## 📊 Contribution Activity
 
-<p align="center">
+<div align="center">
   <img src="https://github-contribution-grid.vercel.app/api?username=S-i-m-a&theme=github" alt="Contribution Graph" />
-</p>
+</div>
 
 <p align="center"><em>Happy coding! 🚀</em></p>
 
