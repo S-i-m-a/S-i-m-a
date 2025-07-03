@@ -2,28 +2,29 @@
 <h3 align="center">3rd-Year B.Tech Student | Web Developer | Tech Explorer | UI/UX Enthusiast</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code&pause=1000&color=00BFFF&width=1000&height=45&lines=Web+Developer+%7C+Open+Source+Contributor;UI%2FUX+Designer+%7C+Cloud+Learner;Exploring+Blockchain+%26+Streaming+Data;Let%E2%80%99s+Build+Something+Awesome+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=1000&height=45&lines=Web+Developer+%7C+Open+Source+Contributor;UI%2FUX+Designer+%7C+Cloud+Learner;Exploring+Blockchain+%26+Streaming+Data;Let%E2%80%99s+Build+Something+Awesome+Together!" alt="Typing SVG" />
 </div>
 
 ---
 
+<div align="center">
+
 ## 🚀 About Me
 
-I’m a passionate and curious learner currently pursuing my **B.Tech (3rd Year)** at **Amrita Vishwa Vidyapeetham**.  
-My journey blends **creative UI/UX**, **full-stack development**, and **systems engineering** — all with a love for building projects that solve real-world problems.
+I’m a passionate and curious learner currently pursuing my  
+<strong>B.Tech (3rd Year)</strong> at <strong>Amrita Vishwa Vidyapeetham</strong>.<br><br>
+My journey blends <strong>creative UI/UX</strong>, <strong>full-stack development</strong>,  
+and <strong>systems engineering</strong> — all with a love for building projects  
+that solve real-world problems.
 
-- 🔭 Working on exciting projects like **Kiddo**, **SRMS**, and **Matrix Calculator**
-- 🌱 Currently diving deeper into **Cloud Computing**, **Blockchain**, and **Streaming Systems**
-- 🛠️ Contributor to open-source & tech communities
-- 📬 Contact me: **sima92166@gmail.com**
+</div>
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
 ### 💻 Languages & Frameworks  
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -36,7 +37,7 @@ My journey blends **creative UI/UX**, **full-stack development**, and **systems 
 </p>
 
 ### 🛠 Tools & Platforms  
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -84,10 +85,12 @@ My journey blends **creative UI/UX**, **full-stack development**, and **systems 
 
 ## 📬 Let's Connect
 
-<a href="mailto:sima92166@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/sima-pandit-2b92602aa/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="center">
+  <a href="mailto:sima92166@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sima-pandit-2b92602aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
