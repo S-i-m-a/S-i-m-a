@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer+%7C+Open+Source+Contributor;UI%2FUX+Designer+%7C+Cloud+Learner;Exploring+Blockchain+%26+Streaming+Data;Let's+Build+Something+Awesome+Together!&center=true&width=1000&height=45&font=Fira+Code&pause=1000&color=00BFFF" alt="Typing SVG" />
 </p>
----
+
 
 
 ## 🚀 About Me
@@ -34,25 +34,25 @@ that solve real-world problems.
 </p>
 
 ### 🛠 Tools & Platforms  
-<p align="center">
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=S-i-m-a&show_icons=true&theme=gradient" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-i-m-a&theme=tokyonight" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-i-m-a&layout=compact&theme=radical" />
-</div>
+
 
 ---
 
@@ -70,15 +70,7 @@ that solve real-world problems.
 
 ---
 
-## 📊 Contribution Activity
 
-<div align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=S-i-m-a&theme=github" alt="Contribution Graph" />
-</div>
-
-<p align="center"><em>Happy coding! 🚀</em></p>
-
----
 
 ## 📬 Let's Connect
 
