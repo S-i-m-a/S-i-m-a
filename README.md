@@ -2,10 +2,14 @@
 <h3 align="center">3rd-Year B.Tech Student | Web Developer | Tech Explorer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer+%7C+Open+Source+Contributor;UI%2FUX+Designer+%7C+Cloud+Learner;Exploring+Blockchain+%26+Streaming+Data;Let's+Build+Something+Awesome+Together!&center=true&width=1000&height=45&font=Fira+Code&pause=1000&color=00BFFF" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Web_Developer-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-Activity-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Tech_Explorer-purple?style=for-the-badge&logo=codeforces" />
 </p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer+%7C+Open+Source+Contributor;UI%2FUX+Designer+%7C+Cloud+Learner;Exploring+Blockchain+%26+Streaming+Data;Let's+Build+Something+Awesome+Together!&center=true&width=1000&height=45&font=Fira+Code&pause=1000&color=00BFFF" alt="Typing SVG" />
+</p>
 
 ## 🚀 About Me
 
@@ -14,7 +18,6 @@ I’m a passionate and curious learner currently pursuing my
 My journey blends <strong>creative UI/UX</strong>, <strong>full-stack development</strong>,  
 and <strong>systems engineering</strong> — all with a love for building projects  
 that solve real-world problems.
-
 
 ---
 
@@ -65,16 +68,22 @@ that solve real-world problems.
 
 ---
 
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/S-i-m-a/S-i-m-a/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 💬 Quote  
 > "Code. Break things. Learn. Repeat." – Dev Mantra
 
 ---
 
-
-
 ## 📬 Let's Connect
 
-
+<p align="center">
   <a href="mailto:sima92166@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -82,4 +91,4 @@ that solve real-world problems.
   <a href="https://www.linkedin.com/in/sima-pandit-2b92602aa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
+</p>
