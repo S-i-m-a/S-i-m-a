@@ -46,13 +46,13 @@ that solve real-world problems.
 
 ## 📈 GitHub Stats
 
-
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=S-i-m-a&show_icons=true&theme=gradient" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-i-m-a&theme=tokyonight" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-i-m-a&layout=compact&theme=radical" />
-
+</p>
 
 ---
 
@@ -74,7 +74,7 @@ that solve real-world problems.
 
 ## 📬 Let's Connect
 
-<p align="center">
+
   <a href="mailto:sima92166@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -82,4 +82,4 @@ that solve real-world problems.
   <a href="https://www.linkedin.com/in/sima-pandit-2b92602aa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+
