@@ -68,13 +68,7 @@ that solve real-world problems.
 
 ---
 
-## 📊 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/S-i-m-a/S-i-m-a/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ## 💬 Quote  
 > "Code. Break things. Learn. Repeat." – Dev Mantra
