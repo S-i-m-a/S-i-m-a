@@ -2,7 +2,7 @@
 <h3 align="center">3rd-Year B.Tech Student | Web Developer | Tech Explorer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer+%7C+Open+Source+Contributor;UI%2FUX+Designer+%7C+Cloud+Learner;Exploring+Blockchain+%26+Streaming+Data;Let’s+Build+Something+Awesome+Together!&center=true&width=1000&height=45&font=Fira+Code&pause=1000&color=00BFFF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=1000&lines=Web+Developer+%7C+Open+Source+Contributor;UI%2FUX+Designer+%7C+Cloud+Learner;Exploring+Blockchain+%26+Streaming+Data;Let%E2%80%99s+Build+Something+Awesome+Together!" alt="Typing SVG" />
 </p>
 
 ---
@@ -71,10 +71,10 @@ My journey blends **creative UI/UX**, **full-stack development**, and **systems 
 
 ---
 
-## 📊 Contribution Activity  
+## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/S-i-m-a/S-i-m-a/blob/output/github-contribution-grid-snake.svg" alt="snake activity" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=S-i-m-a&theme=github" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center"><em>Happy coding! 🚀</em></p>
