@@ -2,7 +2,10 @@
 <h3 align="center">3rd-Year B.Tech Student | Web Developer | Tech Explorer | UI/UX Enthusiast</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=1000&height=45&lines=Web+Developer+%7C+Open+Source+Contributor;UI%2FUX+Designer+%7C+Cloud+Learner;Exploring+Blockchain+%26+Streaming+Data;Let%E2%80%99s+Build+Something+Awesome+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?
+    </div>
+    <div align="center">
+  font=Fira+Code&pause=1000&color=00BFFF&width=1000&height=45&lines=Web+Developer+%7C+Open+Source+Contributor;UI%2FUX+Designer+%7C+Cloud+Learner;Exploring+Blockchain+%26+Streaming+Data;Let%E2%80%99s+Build+Something+Awesome+Together!" alt="Typing SVG" />
 </div>
 
 ---
