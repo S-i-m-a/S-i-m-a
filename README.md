@@ -2,7 +2,7 @@
 <h3 align="center">3rd-Year B.Tech Student | Web Developer | Tech Explorer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer+%7C+Open+Source+Contributor;UI%2FUX+Designer+%7C+Cloud+Learner;Exploring+Blockchain+%26+Streaming+Data;Let’s+Build+Something+Awesome+Together!&center=true&width=1000&height=45&font=Fira+Code&pause=1000&color=F70000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer+%7C+Open+Source+Contributor;UI%2FUX+Designer+%7C+Cloud+Learner;Exploring+Blockchain+%26+Streaming+Data;Let's+Build+Something+Awesome+Together!&center=true&width=1000&height=45&font=Fira+Code&pause=1000&color=F70000" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,12 +10,12 @@
 ## 🚀 About Me
 
 I’m a passionate and curious learner currently pursuing my **B.Tech (3rd Year)** at **Amrita Vishwa Vidyapeetham**.  
-My journey blends creative UI/UX, full-stack development, and systems engineering — all with a love for building projects that solve real-world problems.
+My journey blends **creative UI/UX**, **full-stack development**, and **systems engineering** — all with a love for building projects that solve real-world problems.
 
 - 🔭 Working on exciting projects like **Kiddo**, **SRMS**, and **Matrix Calculator**
 - 🌱 Currently diving deeper into **Cloud Computing**, **Blockchain**, and **Streaming Systems**
 - 🛠️ Contributor to open-source & tech communities
-- 🎮 Hobby: Exploring indie games and designing interfaces
+- 🎮 Hobby: **Exploring indie games and designing interfaces**
 - 📬 Contact me: **sima92166@gmail.com**
 
 ---
@@ -44,19 +44,29 @@ My journey blends creative UI/UX, full-stack development, and systems engineerin
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-i-m-a&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=S-i-m-a&show_icons=true&theme=gradient" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-i-m-a&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-i-m-a&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-i-m-a&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🗂 Highlighted Projects
 
-- 🔹 **Kiddo** – A Django-based learning platform for kids  
-- 🔹 **Student Result Management System** – Simple and secure result manager  
-- 🔹 **Matrix Calculator (Haskell & GUI)** – Advanced matrix operations  
-- 🔹 **Research Paper** – *Cryptocurrency Danger*
+🔹 **Kiddo** – A Django-based learning platform for kids  
+🔹 **Student Result Management System** – Simple and secure result manager  
+🔹 **Matrix Calculator (Haskell & GUI)** – Advanced matrix operations  
+🔹 **Research Paper** – *Cryptocurrency Danger*
+
+---
+
+## 📌 Fun Facts
+
+- 🎮 I explore indie games and interface design during breaks  
+- 🧠 I enjoy learning by doing, experimenting, and failing fast  
+- ✍️ I also write and publish academic papers  
 
 ---
 
