@@ -2,7 +2,7 @@
 <h3 align="center">3rd-Year B.Tech Student | Web Developer | Tech Explorer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer+%7C+Open+Source+Contributor;UI%2FUX+Designer+%7C+Cloud+Learner;Exploring+Blockchain+%26+Streaming+Data;Let's+Build+Something+Awesome+Together!&center=true&width=1000&height=45&font=Fira+Code&pause=1000&color=F70000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer+%7C+Open+Source+Contributor;UI%2FUX+Designer+%7C+Cloud+Learner;Exploring+Blockchain+%26+Streaming+Data;Let’s+Build+Something+Awesome+Together!&center=true&width=1000&height=45&font=Fira+Code&pause=1000&color=00BFFF" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,6 @@ My journey blends **creative UI/UX**, **full-stack development**, and **systems 
 - 🔭 Working on exciting projects like **Kiddo**, **SRMS**, and **Matrix Calculator**
 - 🌱 Currently diving deeper into **Cloud Computing**, **Blockchain**, and **Streaming Systems**
 - 🛠️ Contributor to open-source & tech communities
-- 🎮 Hobby: **Exploring indie games and designing interfaces**
 - 📬 Contact me: **sima92166@gmail.com**
 
 ---
@@ -67,11 +66,18 @@ My journey blends **creative UI/UX**, **full-stack development**, and **systems 
 
 ---
 
-## 📌 Fun Facts
+## 💬 Quote  
+> "Code. Break things. Learn. Repeat." – Dev Mantra
 
-- 🎮 I explore indie games and interface design during breaks  
-- 🧠 I enjoy learning by doing, experimenting, and failing fast  
-- ✍️ I also write and publish academic papers  
+---
+
+## 📊 Contribution Activity  
+
+<p align="center">
+  <img src="https://github.com/S-i-m-a/S-i-m-a/blob/output/github-contribution-grid-snake.svg" alt="snake activity" />
+</p>
+
+<p align="center"><em>Happy coding! 🚀</em></p>
 
 ---
 
