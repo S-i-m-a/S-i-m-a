@@ -59,6 +59,14 @@ My journey blends <strong>creative UI/UX</strong>, <strong>full-stack developmen
 </p>
 
 ---
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=S-i-m-a&show_icons=true&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-i-m-a&layout=compact&theme=radical" />
+  <br>
+  <img width="99%" src="https://streak-stats.demolab.com/?user=S-i-m-a&theme=radical" />
+</p>
 
 ## 🐍 Contribution Snake
 
