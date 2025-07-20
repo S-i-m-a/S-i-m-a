@@ -2,10 +2,6 @@
 <h3 align="center">3rd-Year B.Tech Student | Web Developer | Tech Explorer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=S-i-m-a&label=Profile%20views&color=0e75b6&style=flat" alt="S-i-m-a" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Web_Developer-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Open_Source-Contributor-green?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Tech_Explorer-purple?style=for-the-badge&logo=codeforces" />
@@ -60,6 +56,14 @@ My journey blends <strong>creative UI/UX</strong>, <strong>full-stack developmen
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-i-m-a&theme=tokyonight" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-i-m-a&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 👁️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=S-i-m-a&label=Profile%20views&color=0e75b6&style=flat" alt="S-i-m-a" />
 </p>
 
 ---
