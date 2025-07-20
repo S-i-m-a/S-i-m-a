@@ -98,43 +98,26 @@ My journey blends <strong>creative UI/UX</strong>, <strong>full-stack developmen
 
 ---
 
-<!-- Top Contributed Repos -->
-<h2 align="left">🔝 Top Contributed Repos</h2>
+<<!-- Top Projects -->
+<h2 align="left">🔝 Top Projects</h2>
 
 <table>
   <tr>
-    <th colspan="3" align="center">🌟 <strong>Your Name's GitHub Contributor Stats</strong></th>
+    <th>📁 Project Name</th>
+    <th>⭐ Description</th>
+    <th>🔖 Tech Stack</th>
   </tr>
   <tr>
-    <td><strong>📦 Repository</strong></td>
-    <td><strong>⭐</strong></td>
-    <td><strong>Badge</strong></td>
+    <td><a href="https://github.com/S-i-m-a/Student-Result-Management-System-main">Student Result Management System</a></td>
+    <td>Manage student results via a desktop interface.</td>
+    <td><img src="https://img.shields.io/badge/Java-blue?style=flat-square" /></td>
   </tr>
   <tr>
-    <td>📁 <a href="https://github.com/yourusername/my_python_programmes">my_python_programmes</a></td>
-    <td>⭐</td>
-    <td><img src="https://img.shields.io/badge/Badge-B-darkgrey?style=flat-square" /></td>
+    <td><a href="https://github.com/S-i-m-a/Kiddo">Kiddo</a></td>
+    <td>A Django-based web project designed for children.</td>
+    <td><img src="https://img.shields.io/badge/Django-green?style=flat-square" /></td>
   </tr>
   <tr>
-    <td>📁 <a href="https://github.com/yourusername/SmartExpenseManager">SmartExpenseManager</a></td>
-    <td>⭐</td>
-    <td><img src="https://img.shields.io/badge/Badge-B-darkgrey?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td>📁 <a href="https://github.com/yourusername/haskellCapstone">haskellCapstone</a></td>
-    <td>⭐</td>
-    <td><img src="https://img.shields.io/badge/Badge-B-darkgrey?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td>👤 <a href="https://github.com/yourusername/Trip_assistant">Trip_assistant</a></td>
-    <td>⭐</td>
-    <td><img src="https://img.shields.io/badge/Badge-B-darkgrey?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td>🍀 <a href="https://github.com/yourusername/Kaun-Banega-Crorepati">Kaun-Banega-Crorepati</a></td>
-    <td>⭐</td>
-    <td><img src="https://img.shields.io/badge/Badge-B-darkgrey?style=flat-square" /></td>
-  </tr>
 </table>
 
 ## 📬 Let's Connect
