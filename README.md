@@ -98,6 +98,45 @@ My journey blends <strong>creative UI/UX</strong>, <strong>full-stack developmen
 
 ---
 
+<!-- Top Contributed Repos -->
+<h2 align="left">🔝 Top Contributed Repos</h2>
+
+<table>
+  <tr>
+    <th colspan="3" align="center">🌟 <strong>Your Name's GitHub Contributor Stats</strong></th>
+  </tr>
+  <tr>
+    <td><strong>📦 Repository</strong></td>
+    <td><strong>⭐</strong></td>
+    <td><strong>Badge</strong></td>
+  </tr>
+  <tr>
+    <td>📁 <a href="https://github.com/yourusername/my_python_programmes">my_python_programmes</a></td>
+    <td>⭐</td>
+    <td><img src="https://img.shields.io/badge/Badge-B-darkgrey?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td>📁 <a href="https://github.com/yourusername/SmartExpenseManager">SmartExpenseManager</a></td>
+    <td>⭐</td>
+    <td><img src="https://img.shields.io/badge/Badge-B-darkgrey?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td>📁 <a href="https://github.com/yourusername/haskellCapstone">haskellCapstone</a></td>
+    <td>⭐</td>
+    <td><img src="https://img.shields.io/badge/Badge-B-darkgrey?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td>👤 <a href="https://github.com/yourusername/Trip_assistant">Trip_assistant</a></td>
+    <td>⭐</td>
+    <td><img src="https://img.shields.io/badge/Badge-B-darkgrey?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td>🍀 <a href="https://github.com/yourusername/Kaun-Banega-Crorepati">Kaun-Banega-Crorepati</a></td>
+    <td>⭐</td>
+    <td><img src="https://img.shields.io/badge/Badge-B-darkgrey?style=flat-square" /></td>
+  </tr>
+</table>
+
 ## 📬 Let's Connect
 
 <a href="mailto:sima92166@gmail.com">
